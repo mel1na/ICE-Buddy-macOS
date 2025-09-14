@@ -1,4 +1,5 @@
 {
+  "originHash" : "d5e24ae0132aeb75d795841bcffdc4eef2021fdf4f20a27ee6ce2ec9631b5039",
   "pins" : [
     {
       "identity" : "alamofire",
@@ -14,8 +15,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/frogg/FredKit",
       "state" : {
-        "revision" : "f8f1f4c03cf26f69f8efa3d0e164d76b73e4dccd",
-        "version" : "0.1.41"
+        "revision" : "2b4751b25a1405790c5b6beb6fdeba5530b8419a",
+        "version" : "0.1.61"
       }
     },
     {
@@ -26,34 +27,7 @@
         "revision" : "e8171b3e38a2816f579f58f3dac1522aa39efe41",
         "version" : "4.2.0"
       }
-    },
-    {
-      "identity" : "moya",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/Moya/Moya",
-      "state" : {
-        "revision" : "9b906860e3c3c09032879465c471e6375829593f",
-        "version" : "15.0.0"
-      }
-    },
-    {
-      "identity" : "reactiveswift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
-      "state" : {
-        "revision" : "c43bae3dac73fdd3cb906bd5a1914686ca71ed3c",
-        "version" : "6.7.0"
-      }
-    },
-    {
-      "identity" : "rxswift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ReactiveX/RxSwift.git",
-      "state" : {
-        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
-        "version" : "6.5.0"
-      }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
